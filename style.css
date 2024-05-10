@@ -1,6 +1,11 @@
 body{background-color: rgb(78, 78, 59);
     color: goldenrod;
     font-weight: bold;
-    display: flex;
+    display: block;
     }
+
+.sessao1{
+    display: flex;
+    justify-content: center;
+}
 .img1{width: 30%;}
