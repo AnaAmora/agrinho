@@ -3,7 +3,9 @@ body{background-color: rgb(78, 78, 59);
     font-weight: bold;
     display: block;
     }
-
+.titulo{
+    display: block;
+}
 .sessao1{
     display: flex;
     justify-content: center;
