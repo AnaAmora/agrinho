@@ -9,5 +9,6 @@ body{background-color: rgb(78, 78, 59);
 .sessao1{
     display: flex;
     justify-content: center;
+    float: right;
 }
 .img1{width: 30%;}
