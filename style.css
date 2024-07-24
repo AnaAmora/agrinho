@@ -2,6 +2,7 @@ body{background-color: rgb(78, 78, 59);
     color: goldenrod;
     font-weight: bold;
     display: block;
+    text-align: center;
     }
 .titulo{
     display: flex;
@@ -17,4 +18,5 @@ body{background-color: rgb(78, 78, 59);
 .img1{
     width: 30%;
     display: flex;
+
 }
