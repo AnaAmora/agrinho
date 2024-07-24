@@ -4,11 +4,16 @@ body{background-color: rgb(78, 78, 59);
     display: block;
     }
 .titulo{
-    display: block;
-}
-.sessao1{
     display: flex;
+    align-items: center;
     justify-content: center;
+}
+.texto{
+    /* display: flex; */
+    /* justify-content: center; */
     float: right;
 }
-.img1{width: 30%;}
+.img1{
+    width: 30%;
+    display: flex;
+}
