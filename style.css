@@ -2,8 +2,6 @@ body{background-color: rgb(78, 78, 59);
     color: goldenrod;
     font-weight: bold;
     display: block;
-    align-items: center;
-    text-align: center;
     }
 .titulo{
     display: flex;
@@ -14,7 +12,6 @@ body{background-color: rgb(78, 78, 59);
     /* display: flex; */
     /* justify-content: center; */
     float: right;
-
 }
 .img1{
     width: 30%;
